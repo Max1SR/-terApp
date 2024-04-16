@@ -1,0 +1,98 @@
+<resources>
+    <string name="app_name">+terApp</string>
+    <string name="str_txtusuario">Usuario.</string>
+    <string name="str_txtcontrasena">Contraseña.</string>
+    <string name="str_btniniciar">Iniciar Sesión.</string>
+    <string name="str_selecciona">Selecciona Área.</string>
+    <string name="str_ce">Ciencias Exactas.</string>
+    <string name="str_cs">Ciencias Sociales.</string>
+    <string name="str_idi">Idiomas.</string>
+    <string name="str_art">Artes.</string>
+    <string name="str_cont">Continuar.</string>
+
+    //layout de modificar datos
+
+    <string name="str_moda">Modificar Datos.</string>
+    <string name="str_corr">Correo Electrónico</string>
+    <string name="str_contr">Contraseña</string>
+    <string name="str_confcontr">Confirmar Nueva Contraseña</string>
+    <string name="str_gudat">Guardar Datos</string>
+
+    //layout profdoc
+
+    <string name="str_nom">Nombre</string>
+    <string name="str_pat">Apellido Paterno</string>
+    <string name="str_mat">Apellido Materno</string>
+    <string name="str_ced">Cédula Profesional</string>
+    <string name="str_tel">Teléfono</string>
+
+    <string-array name="area_array">
+        <item>Ciencias Exactas</item>
+        <item>Ciencias Sociales</item>
+        <item>Idiomas</item>
+        <item>Artes</item>
+    </string-array>
+
+    <string-array name="materia_array">
+        <item>Materia 1</item>
+        <item>Materia 2</item>
+        <item>Materia 3</item>
+        <item>Etc</item>
+    </string-array>
+
+    <string-array name="delegacion_array">
+        <item>Álvaro Obregón</item>
+        <item>Azcapotzalco</item>
+        <item>Benito Juárez</item>
+        <item>Coyoacán</item>
+        <item>Cuajimalpa de Morelos</item>
+        <item>Cuauhtémoc</item>
+        <item>Gustavo A. Madero</item>
+        <item>Iztacalco</item>
+        <item>Iztapalapa</item>
+        <item>Magdalena Contreras</item>
+        <item>Miguel Hidalgo</item>
+        <item>Milpa Alta</item>
+        <item>Tláhuac</item>
+        <item>Tlalpan</item>
+        <item>Venustiano Carranza</item>
+        <item>Xochimilco</item>
+    </string-array>
+
+    <string name="str_reg">Registrar</string>
+    <string name="str_dele">Delegación</string>
+    <string name="str_materia">Materia</string>
+    <string name="str_area">Área</string>
+    <string name="str_id">Identificación Oficial</string>
+    <string name="str_certi">Certificado de Estudios</string>
+
+
+
+    //layout tipousuario
+
+    <string name="str_est">Estudiante</string>
+    <string name="str_docente">Profesional Docente</string>
+    <string name="str_informal">Profesor Informal</string>
+    <string name="str_tius">¿Qué tipo de usuario eres?</string>
+
+    //layout profnodoc
+
+    <string name="str_ex">Examinar</string>
+    <string name="str_mtr">Materia(s)</string>
+    <string name="str_seleccionaop">Selecciona las Opciones</string>
+    <string name="str_busc">Búsqueda en:</string>
+    <string name="str_in">Instituciones</string>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</resources>
